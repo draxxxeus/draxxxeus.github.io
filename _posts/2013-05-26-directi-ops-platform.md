@@ -3,6 +3,7 @@ layout: post
 title: Directi Ops Platform
 ---
 
+1856.15
 
 # Keywords
 ## Directi
@@ -23,3 +24,7 @@ Now, consider this:
     * Icinga for checking services like Load, Disk or any other custom services on servers with private IP
 
 * there is no way to correlate an outage with the events received at that time.
+
+* we have various log information that can be helpful
+
+So, how
